@@ -7,6 +7,9 @@ Neotism is an interactive Neuromancer-inspired stop-motion animation. Every elem
 **Notes:**
 Noema - meaning "thought" or "what is thought about".
 Did you mean noetism? Neotism fits better with the language of the futura.
+A insubstantial nightmare, appearing real in biblical proportion while trying to wake up but appears that you have, but have not.
+Person 1: I just had an neotic dream. 
+Person 2: How do you know you're awake then?
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
