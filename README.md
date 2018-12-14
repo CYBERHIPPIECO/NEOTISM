@@ -34,9 +34,9 @@ Description.
 
 <a name="features"></a>
 ### Features
-+ Feature_01
-+ Feature_02
-+ Feature_03
++ Fully 3D-Printed World
++ Cyberpunk Narrative
++ Multiple Endings
 
 <a name="issues"></a>
 ### Issues
