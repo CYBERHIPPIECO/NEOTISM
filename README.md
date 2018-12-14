@@ -46,7 +46,7 @@ Description.
 
 <a name="icebox"></a>
 ### Icebox
-+ Idea_01
++ Puzzles
 + Idea_02
 + Idea_03
 
