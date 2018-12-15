@@ -2,7 +2,7 @@
 
 <a name="intro"></a>
 # NEOTISM - Interactive 3D-Printed Neuromancer Stopmotion
-Neotism is an interactive Neuromancer-inspired stop-motion animation. Every element of the game is made from 3D-printed resin made interactive. Game follows the story of 
+Neotism is an interactive Neuromancer-inspired stop-motion animation. Every element of the game is made from 3D-printed resin made interactive. Game follows the story of a rogue.
 
 **Notes:**
 Noema - meaning "thought" or "what is thought about".
